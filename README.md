@@ -24,4 +24,7 @@ Schedulai is a desktop-based calendar assistant built with Python and PyQt5, pow
 
 ---
 
-This was an early prototype of the Schedulai platform, designed to bring LLM-assisted scheduling to desktop environments. The project laid the groundwork for a fully web-based assistant with richer features.
+This was an early prototype of the Schedulai platform, designed to bring LLM-assisted scheduling to desktop environments. The project laid the groundwork for a fully web-based assistant with richer features. But feel free to expand on.
+
+<img width="523" height="337" alt="image" src="https://github.com/user-attachments/assets/b322d10a-a859-4252-b3a0-76dff78448cf" />
+
